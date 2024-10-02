@@ -48,7 +48,7 @@ def count_words_ignore_stopwords(text_series, stop_words):
     return Counter(words)
 
 # Build the file path dynamically
-df = pd.read_csv('https://github.com/hlutztp/zd_word_count/blob/main/zd_tickets.csv')
+df = pd.read_csv('zd_tickets.csv')
 
 # Count word occurrences in the 'Description' column while ignoring stop words and unwanted characters
 occurrences = count_words_ignore_stopwords(df['Description'], STOP_WORDS)
