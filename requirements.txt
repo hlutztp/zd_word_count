@@ -1,7 +1,6 @@
-textblob
 streamlit
 pandas
 collections
 ntlk
-re
+
 
