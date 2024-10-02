@@ -25,7 +25,12 @@ custom_syncategorematic_words = { "and", "or", "but", "if", "while", "because", 
     "i", "did", "something", "but", "it", "doesn't", "seem", "to", "know", "what", "unfortunately",
     "the", "preview", "images", "in", "are", "misleading", "the", "app", "is", "of",
     "little", "use", "without", "a", "good", "knowledge", "of", "it's", "a", "shame",
-    "i'm", "convinced", "that", "it", "would", "otherwise", "be", "helpful", "trainingpeaks", "me", "p", "com", "https", "www", "your", "please", "have", "1", "account", "hi", "email", "coach", "de", "thanks", "thank", "help", "2024", "like", "tp", "im", "get", "support", "submitted", "workouts", "one", "request", "athlete", "hello", "la", "time", "see", "attached"
+    "i'm", "convinced", "that", "it", "would", "otherwise", "be", "helpful", "trainingpeaks", "me", "p", 
+    "com", "https", "www", "your", "please", "have", "1", "account", "hi", "email", "coach", "de", "thanks", 
+    "thank", "help", "2024", "like", "tp", "im", "get", "support", "submitted", "workouts", "one", "request", "athlete",
+    "hello", "la", "time", "see", "attached", "el", "want", "ive", "dont", "new", "llc", "information", "could", "regards",
+    "cant", "add", "2", "way", "athletes", "change", "back", "wrote", "view", "using", "que", "using", "make", "received", 
+    "un", "set"
 }
 
 st.title("Populate most used words in Zendesk")
