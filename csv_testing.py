@@ -2,8 +2,8 @@ import os
 import pandas as pd
 from collections import Counter
 import streamlit as st
-from nltk.corpus import stopwords
 import nltk
+from nltk.corpus import stopwords
 import re  # Import regular expressions
 
 # Download the stopwords corpus (run this once)
