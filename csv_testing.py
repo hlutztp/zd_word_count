@@ -31,7 +31,7 @@ custom_syncategorematic_words = { "and", "or", "but", "if", "while", "because", 
     "hello", "la", "time", "see", "attached", "el", "want", "ive", "dont", "new", "llc", "information", "could", "regards",
     "cant", "add", "2", "way", "athletes", "change", "back", "wrote", "view", "using", "que", "using", "make", "received", 
     "un", "set", "date", "mi", "louisville", "co", "sep", "us", "didnt", "285", "century", "question", "able", "en", "happy",
-    "httpsapptrainingpeakscomcalendar", "also", "still", "80027", "click"
+    "httpsapptrainingpeakscomcalendar", "also", "still", "80027", "click", "pm", "trainingpeakscom", "let", "today", 
 }
 
 st.title("Populate most used words in Zendesk")
