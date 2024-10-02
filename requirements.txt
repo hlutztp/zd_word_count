@@ -1,0 +1,8 @@
+textblob
+streamlit
+pandas
+ntlk.corups
+collections
+ntlk
+re
+os
