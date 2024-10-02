@@ -62,13 +62,13 @@ df = pd.read_csv('zd_tickets.csv')
 occurrences = count_words_ignore_stopwords(df['Description'], STOP_WORDS)
 
 # Get the top 10 most used words
-top_10_most_used_words = occurrences.most_common(50)
+top_10_most_used_words = occurrences.most_common(100)
 
 # Print the top 10 most used words with their counts
 #for word, count in top_10_most_used_words:
     #print(f"{word}: {count}")
 if st.button("Submit"):
-    result = (occurrences.most_common(50))
+    result = (occurrences.most_common(100))
     output_message = f"""
     Top used words: {top_10_most_used_words}
     """
